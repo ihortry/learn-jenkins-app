@@ -21,5 +21,9 @@ pipeline {
                 '''
             }
         }
+
+        stage('Test stage') {
+
+        }
     }
 }
