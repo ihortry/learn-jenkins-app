@@ -23,7 +23,9 @@ pipeline {
         }
 
         stage('Test stage') {
-
+            steps{
+                
+            }
         }
     }
 }
